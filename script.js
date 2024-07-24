@@ -15,4 +15,4 @@ function countVowelsAndConsonants() {
 
     document.getElementById('result').innerText = 
         `Гласные: ${vowelCount}, Согласные: ${consonantCount}`;
-}
+} 
